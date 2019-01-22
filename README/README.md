@@ -2,7 +2,7 @@
 
 # This code was part of a project where one could program a bot to download all the images on a page, and then submit it
 # to reddit.com/r/photographs so as to get feedback on a set of photographs that you may have taken (and get said feedback
-# automatically).
+# without having to upload each photograph separately).
 
 Currently, the state of this project is as follows.
 

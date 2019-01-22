@@ -12,7 +12,7 @@ Currently, the state of this project is as follows.
 
 (xx = 12)
 
-(-) This project was based on a comment on reddit.com/r/photographs. I could easily program the bot to download the 
+(-) This project was based on a comment on reddit.com/r/photographs. I could easily program the aboutcode bot to download the 
     images on a page AND upload it to reddit.com/r/photographs so as to automatically get feedback on a photograph or 
     a set of photographs. But I don't want to do it because it may annoy the moderators on /r/photographs.
 

@@ -4,7 +4,7 @@ The code in this repository will automatically download all the images on a part
 
 Before you run the code, make sure you update the URL in line xx with the right URL.
 
-xx = 12
+(xx = 12)
 
 NOTE:
 

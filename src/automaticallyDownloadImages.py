@@ -9,6 +9,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
+# replace the URL below with your URL
 site = 'https://www.reddit.com/r/photographs/comments/ai0rol/while_i_was_in_amsterdam/'
 
 # site = 'file:///Users/macuser/scratch_dir/Amsterdam.html'

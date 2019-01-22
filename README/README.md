@@ -1,7 +1,7 @@
 # README
 
 # This code was part of a project where one could program a bot to download all the images on a page, and then submit it
-# to reddit.com/r/photographs so as to get feedback on a photograph that you may have taken automatically.
+# to reddit.com/r/photographs so as to get feedback on a photograph that you may have taken.
 
 Currently, the state of this project is as follows.
 
